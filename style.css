@@ -1,0 +1,4 @@
+body { font-family: sans-serif; background: #eee; text-align: center; margin: 0; padding: 0; }
+header { background: #4a8ef3; color: white; padding: 50px 20px; }
+h1 { margin: 0; }
+.btn { background: white; color: #4a8ef3; padding: 10px 20px; border-radius: 8px; text-decoration: none; display: inline-block; margin-top: 20px; }
